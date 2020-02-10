@@ -9,4 +9,7 @@
 			"path": "/Users/Q/Documents/GitHub/GidroSpecTech"
 		}
 	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "gtt"
+	},
 }
