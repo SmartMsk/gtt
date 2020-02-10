@@ -1,4 +1,4 @@
 # gtt
-url: smartmsk.github.io/gtt
 
+Прямая ссылка на сайт: 
 https://smartmsk.github.io/gtt/
