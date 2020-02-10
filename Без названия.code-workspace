@@ -1,13 +1,12 @@
 {
-	"folders": [
-		{
+	"folders": [{
 			"path": "."
 		},
 		{
 			"path": "/Users/Q/Documents/GitHub/smartmsk.github.io"
+		},
+		{
+			"path": "/Users/Q/Documents/GitHub/GidroSpecTech"
 		}
 	],
-	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "gtt"
-	}
 }
