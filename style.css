@@ -4,7 +4,7 @@
 
 .header {
 	height: 500px;
-	background-image: url("/assets/img/7.jpg");
+	background: url("/assets/img/7.jpg");
 	background-size: cover;
 	color: black;
 	text-align: center;
