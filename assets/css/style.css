@@ -1,6 +1,6 @@
 .header {
 	height: 500px;
-	background: url("https://smartmsk.github.io/gtt/assets/img/7.jpg");
+	background: url("https://smartmsk.github.io/gtt/assets/img/7.jpg") no-repeat center;
 	background-size: cover;
 	color: white;
 	text-align: center;
