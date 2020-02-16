@@ -1,12 +1,11 @@
 .header {
+	background-color: red;
+}
+
+/* .header {
 	height: 500px;
 	background: url(/img/7.jpg) no-repeat center;
-
 	background-size: cover;
 	color: white;
 	text-align: center;
-
-	/* background: black;
-	opacity: 0.7; */
-
-}
+} */
