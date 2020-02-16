@@ -1,7 +1,12 @@
-body {
-	background-color: #cff;
+.header {
+	height: 500px;
+	background: url(/img/7.jpg) no-repeat center;
+	background-size: cover;
+	color: white;
+	text-align: center;
+
 }
 
-.redd {
-	color: blue
+.header:hover {
+	opacity: 0.9;
 }
