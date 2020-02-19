@@ -1,0 +1,33 @@
+/* * {
+	border: 1px red solid;
+} */
+
+
+body {
+	padding-top: 3.5rem;
+	/* Move down content because we have a fixed navbar that is 3.5rem tall */
+	background-color: #f1f1f1;
+}
+
+
+.adress-nav {
+	/* color: white; */
+	font-size: 0.8em;
+}
+
+.intro {
+	height: 100%;
+	position: relative;
+}
+
+@media (max-width: 800px) {
+	.display-3 {
+		font-size: 3rem;
+	}
+}
+
+.intro .text__intro {
+	position: absolute;
+	bottom: 0;
+	padding: 20px;
+}
