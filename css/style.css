@@ -4,7 +4,7 @@
 
 
 body {
-	padding-top: 8.25rem;
+	padding-top: 3.5rem;
 	/* Move down content because we have a fixed navbar that is 3.5rem tall */
 	background-color: #f1f1f1;
 }
@@ -16,18 +16,23 @@ body {
 }
 
 .intro {
-	height: 100%;
+	margin: 0px;
 	position: relative;
+}
+
+.intro img {
+	height: 400px;
+	max-width: 100%;
+}
+
+.intro .text__intro {
+	position: absolute;
+	bottom: 0;
+	padding: 25px;
 }
 
 @media (max-width: 800px) {
 	.display-3 {
 		font-size: 3rem;
 	}
-}
-
-.intro .text__intro {
-	position: absolute;
-	bottom: 0;
-	padding: 20px;
 }
