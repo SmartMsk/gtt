@@ -20,9 +20,7 @@ body {
 	position: relative;
 }
 
-.intro img {
-	height: 100%;
-}
+.intro img {}
 
 .intro .text__intro {
 	position: absolute;
