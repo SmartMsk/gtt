@@ -28,7 +28,7 @@ body {
 .intro .text__intro {
 	position: absolute;
 	bottom: 0;
-	/* padding: 25px; */
+	padding: 25px;
 }
 
 @media (max-width: 800px) {
