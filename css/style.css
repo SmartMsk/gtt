@@ -20,7 +20,10 @@ body {
 	position: relative;
 }
 
-.intro img {}
+.intro img {
+	/* picture */
+	opacity: 95%;
+}
 
 .intro .text__intro {
 	position: absolute;
